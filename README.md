@@ -5,7 +5,7 @@
 ## How to run?
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/x3-ui-setup/master/x3-ui-setup.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/3x-ui-setup/master/x3-ui-setup.sh)
 ```
 
 ## Ads DNS Blocking
