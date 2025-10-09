@@ -6,7 +6,7 @@
 
 ```bash
 WEB_PORT=123 WEB_PATH=xyz X_UI_USERNAME=qwerty X_UI_PASSWORD=qwerty \
- bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/3x-ui-setup/master/x3-ui-setup.sh)
+ bash <(curl -Ls https://raw.githubusercontent.com/ZERDICORP/3x-ui-setup/master/3x-ui-setup.sh)
 ```
 
 ## Ads DNS Blocking
